@@ -17,7 +17,7 @@ A web-based animator built with SvelteKit, Anime.js, and FFmpeg for creating and
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ImaDoofus/animate
 cd animate
 ```
 
