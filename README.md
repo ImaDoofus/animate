@@ -10,7 +10,7 @@ A web-based animator built with SvelteKit, Anime.js, and FFmpeg for creating and
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js
 - npm/pnpm/yarn
 
 ### Installation
