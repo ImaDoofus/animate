@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".npmrc": true,
+        "deno.lock": true
+    },
+    "hide-files.files": [
+        ".npmrc",
+        "deno.lock"
+    ]
+}

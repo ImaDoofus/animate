@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: "minecraft";
+  src: local(""), url("/assets/fonts/minecraftio.woff2") format("woff2");
+}
+
+@theme {
+  --font-minecraft: "minecraft";
+}
+
+/* greenscreen */
+body {
+  background-color: #00ff00;
+}
